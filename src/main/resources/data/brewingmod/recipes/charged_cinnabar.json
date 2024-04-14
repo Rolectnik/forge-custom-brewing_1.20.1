@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "#N#",
+    "cCc",
+    "ccc"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:redstone"
+    },
+    "C": {
+      "item": "minecraft:redstone_block"
+    },
+    "N": {
+      "item": "minecraft:gravel"
+    },
+    "c": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "brewingmod:charged_cinnabar",
+    "count": 1
+  }
+}
